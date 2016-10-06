@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eBankingDAL</RootNamespace>
+    <AssemblyName>eBankingDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2012.Runtime.11.0.3452.0\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2012.Runtime.11.0.3452.0\lib\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2012.Runtime.11.0.3452.0\lib\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="DAKlijent.cs" />
+    <Compile Include="DALogovi.cs" />
+    <Compile Include="DAObavijesti.cs" />
+    <Compile Include="DAPoruke.cs" />
+    <Compile Include="DARadnik.cs" />
+    <Compile Include="DAStednje.cs" />
+    <Compile Include="DAUplatnice.cs" />
+    <Compile Include="DAZahtjevi.cs" />
+    <Compile Include="DSKlijent.cs">
+      <DependentUpon>DSKlijent.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSKlijent.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSKlijent.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSLogovi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSLogovi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSObavijesti.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSObavijesti.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSPoruke.cs">
+      <DependentUpon>DSPoruke.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSPoruke.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSPoruke.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSRadnik.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSStednje.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSStednje.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSUplatnice.cs">
+      <DependentUpon>DSUplatnice.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSUplatnice.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSUplatnice.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSZahtjevi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSZahtjevi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DSKlijent.xsc">
+      <DependentUpon>DSKlijent.xsd</DependentUpon>
+    </None>
+    <None Include="DSKlijent.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSKlijent.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSKlijent.xss">
+      <DependentUpon>DSKlijent.xsd</DependentUpon>
+    </None>
+    <None Include="DSLogovi.xsc">
+      <DependentUpon>DSLogovi.xsd</DependentUpon>
+    </None>
+    <None Include="DSLogovi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSLogovi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSLogovi.xss">
+      <DependentUpon>DSLogovi.xsd</DependentUpon>
+    </None>
+    <None Include="DSObavijesti.xsc">
+      <DependentUpon>DSObavijesti.xsd</DependentUpon>
+    </None>
+    <None Include="DSObavijesti.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSObavijesti.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSObavijesti.xss">
+      <DependentUpon>DSObavijesti.xsd</DependentUpon>
+    </None>
+    <None Include="DSPoruke.xsc">
+      <DependentUpon>DSPoruke.xsd</DependentUpon>
+    </None>
+    <None Include="DSPoruke.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSPoruke.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSPoruke.xss">
+      <DependentUpon>DSPoruke.xsd</DependentUpon>
+    </None>
+    <None Include="DSRadnik.xsc">
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </None>
+    <None Include="DSRadnik.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSRadnik.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSRadnik.xss">
+      <DependentUpon>DSRadnik.xsd</DependentUpon>
+    </None>
+    <None Include="DSStednje.xsc">
+      <DependentUpon>DSStednje.xsd</DependentUpon>
+    </None>
+    <None Include="DSStednje.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSStednje.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSStednje.xss">
+      <DependentUpon>DSStednje.xsd</DependentUpon>
+    </None>
+    <None Include="DSUplatnice.xsc">
+      <DependentUpon>DSUplatnice.xsd</DependentUpon>
+    </None>
+    <None Include="DSUplatnice.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSUplatnice.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSUplatnice.xss">
+      <DependentUpon>DSUplatnice.xsd</DependentUpon>
+    </None>
+    <None Include="DSZahtjevi.xsc">
+      <DependentUpon>DSZahtjevi.xsd</DependentUpon>
+    </None>
+    <None Include="DSZahtjevi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSZahtjevi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSZahtjevi.xss">
+      <DependentUpon>DSZahtjevi.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

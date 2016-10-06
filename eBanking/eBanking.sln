@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBankingUI", "eBankingUI\eBankingUI.csproj", "{3A7F97E0-890B-4255-90FF-604612D23838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBankingDAL", "eBankingDAL\eBankingDAL.csproj", "{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7F97E0-890B-4255-90FF-604612D23838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F97E0-890B-4255-90FF-604612D23838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7F97E0-890B-4255-90FF-604612D23838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F97E0-890B-4255-90FF-604612D23838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E296F6-8532-4F1B-BF51-012FDE0A3C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

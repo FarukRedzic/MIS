@@ -1,0 +1,17 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\eBankingDAL.dll.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\eBankingDAL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\obj\Debug\eBankingDAL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingDAL\obj\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\eBankingDAL.dll.config
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\eBankingDAL.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\obj\Debug\eBankingDAL.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\obj\Debug\eBankingDAL.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingDAL\obj\Debug\eBankingDAL.pdb

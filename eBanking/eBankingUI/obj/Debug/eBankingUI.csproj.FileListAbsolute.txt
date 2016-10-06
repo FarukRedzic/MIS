@@ -1,0 +1,96 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\eBankingUI.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\eBankingUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\eBankingUI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\eBankingDAL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmKlijenti.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogovi.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.frmMain.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogin.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijestDetalji.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijesti.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPorukaDetalji.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPoruke.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmRacuniDetalji.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmStednje.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmUplatniceDetalji.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmZahtjevi.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Properties.Resources.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.Reports.frmReports.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\eBanking\eBankingUI\obj\Debug\eBankingUI.pdb
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\eBankingUI.exe.config
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\eBankingUI.exe
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\eBankingUI.pdb
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\eBankingDAL.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmKlijenti.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogovi.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.frmMain.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogin.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijestDetalji.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijesti.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPorukaDetalji.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPoruke.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmRacuniDetalji.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmStednje.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmUplatniceDetalji.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmZahtjevi.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Properties.Resources.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.Reports.frmReports.resources
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.exe
+C:\Users\Faruk\Desktop\MIS SEMINARSKI\eBanking\eBankingUI\obj\Debug\eBankingUI.pdb
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\eBankingUI.exe.config
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.exe
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.pdb
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\eBankingUI.exe
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\eBankingUI.pdb
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\eBankingDAL.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\eBankingDAL.pdb
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmKlijenti.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogovi.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.frmMain.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmLogin.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijestDetalji.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmObavijesti.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPorukaDetalji.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmPoruke.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmRacuniDetalji.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmStednje.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmUplatniceDetalji.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Forme.frmZahtjevi.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Properties.Resources.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.Reports.frmReports.resources
+C:\Users\Faruk\Desktop\MIS-eBanking\eBanking\eBankingUI\obj\Debug\eBankingUI.csproj.GenerateResource.Cache

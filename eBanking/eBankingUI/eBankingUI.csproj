@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A7F97E0-890B-4255-90FF-604612D23838}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eBankingUI</RootNamespace>
+    <AssemblyName>eBankingUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forme\frmKlijenti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmKlijenti.Designer.cs">
+      <DependentUpon>frmKlijenti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmLogovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmLogovi.Designer.cs">
+      <DependentUpon>frmLogovi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmObavijestDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmObavijestDetalji.Designer.cs">
+      <DependentUpon>frmObavijestDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmObavijesti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmObavijesti.Designer.cs">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmPorukaDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmPorukaDetalji.Designer.cs">
+      <DependentUpon>frmPorukaDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmPoruke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmPoruke.Designer.cs">
+      <DependentUpon>frmPoruke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmRacuniDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmRacuniDetalji.Designer.cs">
+      <DependentUpon>frmRacuniDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmStednje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmStednje.Designer.cs">
+      <DependentUpon>frmStednje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmUplatniceDetalji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmUplatniceDetalji.Designer.cs">
+      <DependentUpon>frmUplatniceDetalji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\frmZahtjevi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\frmZahtjevi.Designer.cs">
+      <DependentUpon>frmZahtjevi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmReports.Designer.cs">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forme\frmKlijenti.resx">
+      <DependentUpon>frmKlijenti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmLogovi.resx">
+      <DependentUpon>frmLogovi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmObavijestDetalji.resx">
+      <DependentUpon>frmObavijestDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmObavijesti.resx">
+      <DependentUpon>frmObavijesti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmPorukaDetalji.resx">
+      <DependentUpon>frmPorukaDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmPoruke.resx">
+      <DependentUpon>frmPoruke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmRacuniDetalji.resx">
+      <DependentUpon>frmRacuniDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmStednje.resx">
+      <DependentUpon>frmStednje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmUplatniceDetalji.resx">
+      <DependentUpon>frmUplatniceDetalji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\frmZahtjevi.resx">
+      <DependentUpon>frmZahtjevi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reports\frmReports.resx">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eBankingDAL\eBankingDAL.csproj">
+      <Project>{58e296f6-8532-4f1b-bf51-012fde0a3c8d}</Project>
+      <Name>eBankingDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
